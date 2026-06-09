@@ -1,0 +1,37 @@
+[
+  {
+    "employee_id": "EMP1001",
+    "name": "John Doe",
+    "role": "Software Engineer",
+    "grade": "G5",
+    "department": "Engineering"
+  },
+  {
+    "employee_id": "EMP1002",
+    "name": "Jane Smith",
+    "role": "QA Engineer",
+    "grade": "G4",
+    "department": "Quality Assurance"
+  },
+  {
+    "employee_id": "EMP1003",
+    "name": "Mike Johnson",
+    "role": "DevOps Engineer",
+    "grade": "G6",
+    "department": "Infrastructure"
+  },
+  {
+    "employee_id": "EMP1004",
+    "name": "Sarah Wilson",
+    "role": "UI/UX Designer",
+    "grade": "G4",
+    "department": "Design"
+  },
+  {
+    "employee_id": "EMP1005",
+    "name": "Alex Brown",
+    "role": "Intern",
+    "grade": "G1",
+    "department": "Engineering"
+  }
+]
